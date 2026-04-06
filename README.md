@@ -8,6 +8,7 @@ Homepage: https://skahyeon.github.io/
 - Sensor fusion & state estimation
 - Smart factory & control    
 - Faciltty Porous Pressure System
+- Smart Manufacturing AI Agent
 
 ## License
 
